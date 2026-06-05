@@ -49,6 +49,10 @@ Applied transformer-based NLP models to analyze interpretation discussions, perf
 ### Dashboard Development
 Developed a dashboard combining visualizations, tables, and analytical outputs to support exploration of healthcare trends and facility performance.
 
+### Dashboard 
+![Dashboard](https://github.com/minotikedare/Population-Health-Analytics/blob/main/Dashboard.png?raw=true)
+
+
 ## Key Insights
 - **Jembe CHC** shows consistently higher referral volumes (~54/month) compared to **Ngelehun CHC (~10/month)**.  
 - **Reproductive Health and Child Health datasets** exhibit nearly identical national reporting trends.  
